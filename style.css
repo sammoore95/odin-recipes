@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+.h1box {
+    background-color: white;
+    text-align: center;
+}
