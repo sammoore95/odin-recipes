@@ -12,4 +12,15 @@ html {
 .h1box {
     background-color: white;
     text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.recipelinkbox ul{
+    list-style: none;
+    background-color: blanchedalmond;
+    place-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
 }
