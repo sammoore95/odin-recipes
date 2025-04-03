@@ -24,3 +24,15 @@ html {
     margin-right: 100px;
     padding: 10px;
 }
+
+.homelink {
+    text-align: center;
+    display: block;
+}
+
+.recipeimg {
+    display: block;
+    padding: 4px;
+    background-color: white;
+    margin: auto;
+}
